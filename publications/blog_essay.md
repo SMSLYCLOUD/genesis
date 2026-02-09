@@ -90,6 +90,6 @@ Either way, I'll tell you the truth about it.
 
 ---
 
-*Osaretin Osamudiamen — February 2026*
+*Osaretin Festus Agbonsalo — February 2026*
 
 *This essay is part of the Genesis project. The technical paper, popular science article, and full white paper are available in the publications directory.*

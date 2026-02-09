@@ -2,7 +2,7 @@
 
 ## The Story of Distinction Dynamics — A New Way to See Science
 
-*By Osaretin Osamudiamen | February 2026*
+*By Osaretin Festus Agbonsalo | February 2026*
 
 ---
 
@@ -140,7 +140,7 @@ And that's a distinction worth making.
 
 ---
 
-*Osaretin Osamudiamen is an independent researcher working on the foundations of mathematics and physics. He is the author of the Genesis project.*
+*Osaretin Festus Agbonsalo is an independent researcher working on the foundations of mathematics and physics. He is the author of the Genesis project.*
 
 ---
 

@@ -2,7 +2,7 @@
 
 ---
 
-**Osaretin Osamudiamen**
+**Osaretin Festus Agbonsalo**
 
 *Independent Researcher*
 

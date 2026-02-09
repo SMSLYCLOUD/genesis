@@ -4,7 +4,7 @@
 
 ---
 
-**Author:** Osaretin Osamudiamen  
+**Author:** Osaretin Festus Agbonsalo  
 **Date:** February 9, 2026  
 **Version:** 2.0 (Post-Correction)  
 **Classification:** Technical White Paper — intended for physicists, mathematicians, and interdisciplinary researchers
@@ -215,7 +215,7 @@ Level 9:  CHEMISTRY ← Dirac reduction (Dirac, 1929)
 
 **Title:** Structural Correspondences Between a Single Primitive and the Equations of Science
 
-**Author:** Osaretin Osamudiamen
+**Author:** Osaretin Festus Agbonsalo
 
 **Abstract:** We present seven axioms built on the primitive of drawing a distinction (Spencer-Brown, 1969) and demonstrate structural correspondences with established results spanning logic, arithmetic, algebra, analysis, classical mechanics, quantum mechanics, quantum field theory, and chemistry — linked by a continuous chain of published theorems and correspondences. We classify every claim by epistemic status (theorem, structural correspondence, or conjecture) and extract five novel, testable predictions distinguishing this framework from IIT, Constructor Theory, and Wolfram's physics project. One prediction (a tighter-than-Holevo mutual information bound) is testable with current quantum information experiments.
 
