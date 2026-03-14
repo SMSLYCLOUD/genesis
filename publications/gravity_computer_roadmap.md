@@ -146,12 +146,22 @@ Where:
 
 While Parts 1 through 5 detail the microscopic, commercial-grade fabrication required by foundries like TSMC or HP, the underlying physics scales perfectly. If you want to build a functional, macroscopic "Gravity Computer" on your workbench right now to prove the concept, follow these exact, simple steps. You do not need an engineering degree to build this.
 
-### What You Will Need (Bill of Materials)
-1. **The Harvester:** A commercially available macro-piezoelectric vibration sensor (e.g., a standard piezo buzzer element or a PZT bender actuator).
-2. **The Mass:** A heavy metal hex nut or small lead fishing weight.
-3. **The Buffer:** A low-leakage 1-Farad Supercapacitor ($5.5\text{V}$) and a standard diode (e.g., 1N4148 or a low-drop Schottky diode like 1N5817).
-4. **The Processor:** An ultra-low power microcontroller (e.g., Texas Instruments MSP430) or a simple discrete CMOS logic gate IC (e.g., CD4000 series NAND gate).
-5. **The Output:** A high-efficiency red LED.
+### What You Will Need (Online Shopping List)
+To build this right now, copy and paste these exact terms into Amazon, Digi-Key, or Mouser:
+
+**1. The Harvester (Vibration to Electricity)**
+- *Search:* "Piezoelectric Sensor 35mm" or "Piezo bender element with leads" (You need a large one, at least 27mm or 35mm wide to generate enough voltage).
+- *Search:* "Heavy hex nut 1/2 inch" or "Lead fishing weights assortment" (This is the heavy mass you will glue to the piezo).
+- *Search:* "Super Glue Gel" (To attach the mass to the piezo).
+
+**2. The Buffer (Electricity Storage and One-Way Valve)**
+- *Search:* "1N5817 Schottky Diode" (Schottky diodes are critical because they have a very low voltage drop, letting tiny amounts of electricity through).
+- *Search:* "1F 5.5V Supercapacitor" (A "Farad" capacitor is huge compared to normal electronics; it will act as the tiny battery).
+
+**3. The Processor and Output (The "Computer")**
+- *Search:* "CD4011BE NAND Gate IC" (A very standard, simple, cheap logic chip that can run on low voltage).
+- *Search:* "3mm High-Efficiency Red LED" (Red LEDs require the lowest voltage to turn on, usually around 1.8V).
+- *Search:* "Solderless Breadboard and Jumper Wire Kit" (So you can plug everything together without needing to learn how to solder).
 
 ### Step 1: Build the Gravity Harvester
 *This step creates the machine that turns gravity/vibration into electricity.*
